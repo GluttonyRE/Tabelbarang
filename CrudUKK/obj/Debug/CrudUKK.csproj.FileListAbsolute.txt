@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\CrudUKK\bin\Debug\barang.accdb
+C:\Users\ASUS\source\repos\CrudUKK\bin\Debug\CrudUKK.exe.config
+C:\Users\ASUS\source\repos\CrudUKK\bin\Debug\CrudUKK.exe
+C:\Users\ASUS\source\repos\CrudUKK\bin\Debug\CrudUKK.pdb
+C:\Users\ASUS\source\repos\CrudUKK\obj\Debug\CrudUKK.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\CrudUKK\obj\Debug\CrudUKK.Form1.resources
+C:\Users\ASUS\source\repos\CrudUKK\obj\Debug\CrudUKK.Properties.Resources.resources
+C:\Users\ASUS\source\repos\CrudUKK\obj\Debug\CrudUKK.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\CrudUKK\obj\Debug\CrudUKK.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CrudUKK\obj\Debug\CrudUKK.exe
+C:\Users\ASUS\source\repos\CrudUKK\obj\Debug\CrudUKK.pdb
